@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 117237 Safety Issue" max_length="40" name="u_imp_tmpl_x_117237_safety_issue" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Assigned to" label="Assigned to" max_length="32" name="u_assigned_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description&#10;" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Priority" label="Priority" max_length="40" name="u_priority" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short description" label="Short description" max_length="160" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+    </element>
+</database>
